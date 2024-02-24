@@ -61,4 +61,9 @@ Aby uruchomić projekt, wykonaj następujące kroki:
 
 ## Autor
 
-Paulina D.
+Paulina D. 
+
+## Licencja
+
+Ten projekt jest objęty [licencją MIT](https://couto.mit-license.org/). Szczegółowe informacje można znaleźć w pliku [LICENSE](LICENSE).
+
